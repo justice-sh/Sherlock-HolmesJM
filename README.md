@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Justice 👋 I'm a Front-End Developer
+
+- 🔭 I’m currently working on Tegy - the simple budget tracker
+- 🌱 I’m currently learning Data Structures and Algorithm
+- 💬 Ask me about JavaScript, React, Front-End development
 
 <!--
 **Sherlock-HolmesJM/Sherlock-HolmesJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
