@@ -1,6 +1,6 @@
 ### Hi there, I'm Justice 👋 I'm a Front-End Developer
 
-- 🔭 I’m currently working on Tegy - the simple budget tracker
+- 🔭 I’m currently working on Tegy - a simple budget tracker
 - 🌱 I’m currently learning Data Structures and Algorithm
 - 💬 Ask me about JavaScript, React, Front-End development
 
