@@ -1,7 +1,6 @@
 ### Hi there, I'm Justice 👋 
 #### I'm a Front-End Developer and
 
-- 🔭 currently working on Tegy - a simple budget tracker
 - 🌱 currently learning Data Structures and Algorithm
 
 
