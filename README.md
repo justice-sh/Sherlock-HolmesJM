@@ -1,7 +1,7 @@
 ### Hi there, I'm Justice 👋 
 #### I'm a Front-End Developer
 
-- 🌱 currently learning Data Structures and Algorithm
+- 🌱 currently learning Data Structures and Algorithms
 
 
 💬 Ask me about JavaScript, React, Front-End development
