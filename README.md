@@ -12,7 +12,7 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
 
 ## Examples of Work
-...
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/bictory%20home.png' alt='eow1' height='140' width='256'>](https://bictory.io)
 
 ### Casuals
 
