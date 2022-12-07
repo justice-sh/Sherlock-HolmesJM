@@ -1,13 +1,17 @@
 ![justice-p-banner](https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/github-profile-banner.webp)
 
 
-### Hi there 👋, I'm Justice
-#### a Front-End Engineer
+# Hi there 👋, I'm Justice
 
+I'm a self-driven and motivated Front-End Engineer with over four (4) years of experience.
 
-I have four years of experience on web development.
+## Skills and Experience
 
-Skills: NextJs / REACT / TypeScript / JavaScript / HTML / CSS
+* ⚡ NextJs
+* ⚛️ React
+* 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
+
+### Casuals
 
 - 🌱 I’m currently learning Web3 
 - 💬 Ask me about JavaScript, Front-End Development 
