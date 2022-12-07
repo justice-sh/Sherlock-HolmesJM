@@ -3,13 +3,15 @@
 
 # Hi there 👋, I'm Justice
 
-I'm a self-driven and motivated Front-End Engineer with over four (4) years of experience.
+I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with over four (4) years of experience.
 
 ## Skills and Experience
 
 * ⚡ NextJs
 * ⚛️ React
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
+
+## Example of Work
 
 ### Casuals
 
