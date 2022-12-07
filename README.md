@@ -17,8 +17,10 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/bictory%20cex.png' alt='eow1' height='140' width='256'>](https://app.bictory.exchange)
 
 ## Personal Projects
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result)
+<!-- [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result) -->
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-login.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
 
 ### Casuals
 
