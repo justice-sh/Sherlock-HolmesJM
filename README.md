@@ -11,7 +11,8 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 * ⚛️ React
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
 
-## Example of Work
+## Examples of Work
+...
 
 ### Casuals
 
