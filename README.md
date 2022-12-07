@@ -1,7 +1,7 @@
 ### Hi there, I'm Justice 👋 
 #### A Front-End Engineer
 
-- 🌱 currently learning about Web3
+- 🌱 currently learning Web3
 
 
 💬 Ask me about JavaScript, React, Front-End development
