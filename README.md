@@ -39,7 +39,7 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherlock-holmesjm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice)](https://github.com/anuraghazra/github-readme-stats) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sherlock-HolmesJM)  
 
