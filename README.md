@@ -35,15 +35,17 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sherlock-HolmesJM)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlock-HolmesJM)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherlock-holmesjm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Sherlock-HolmesJM)  
 
-![Profile views](https://gpvc.arturio.dev/Sherlock-HolmesJM)  
+![Profile views](https://gpvc.arturio.dev/Sherlock-HolmesJM) 
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlock-HolmesJM)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sherlock-HolmesJM/Sherlock-HolmesJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
