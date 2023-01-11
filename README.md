@@ -11,16 +11,15 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 * ⚛️ React
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
 
-## Examples of Work - Bictory Finance
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/bictory%20home.png' alt='eow1' height='140' width='256'>](https://bictory.io)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/bictory%20cex%20home.png' alt='eow1' height='140' width='256'>](https://bictory.exchange)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/bictory%20cex.png' alt='eow1' height='140' width='256'>](https://app.bictory.exchange)
+## Example of Work
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/flo-pic-1.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/)
 
-## Personal Projects
-<!-- [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result) -->
+
+<!-- ## Personal Projects
+ [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result) 
 [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-login.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/) -->
 
 ### Casuals
 
