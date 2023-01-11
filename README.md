@@ -23,7 +23,7 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 
 ### Casuals
 
-- 🌱 I’m currently learning Web3 
+- 🌱 I’m currently learning GSAP 
 - 💬 Ask me about JavaScript, Front-End Development 
 - 😄 Pronouns: He/Him 
 
