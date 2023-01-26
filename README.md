@@ -12,7 +12,7 @@ I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with ov
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
 
 ## Example of Work
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/flo-pic-2.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/)
+[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/flo-pic-3.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/)
 
 
 <!-- ## Personal Projects
