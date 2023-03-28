@@ -3,7 +3,7 @@
 
 # Hi there 👋, I'm Justice
 
-I'm Justice from Nigeria, a self-driven and motivated Front-End Engineer with over four (4) years of experience.
+I'm Justice from Nigeria, a self-driven and motivated frontend developer with over four (4) years of experience.
 
 ## Skills and Experience
 
