@@ -1,4 +1,4 @@
-![justice-p-banner](https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/github-profile-banner.webp)
+![justice-p-banner](https://github.com/justice-sh/justice-sh/blob/main/github-profile-banner.webp)
 
 
 # Hi there 👋, I'm Justice
@@ -12,14 +12,14 @@ I'm Justice from Nigeria, a self-driven and motivated frontend developer with ov
 * 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
 
 <!-- ## Example of Work -->
-<!-- [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/flo-pic-3.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/) -->
+<!-- [<img src='https://github.com/justice-sh/justice-sh/blob/main/flo-pic-3.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/) -->
 
 
 <!-- ## Personal Projects
- [<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result) 
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-login.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
-[<img src='https://github.com/Sherlock-HolmesJM/Sherlock-HolmesJM/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/) -->
+ [<img src='https://github.com/justice-sh/justice-sh/blob/main/rm-login.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/)
+[<img src='https://github.com/justice-sh/justice-sh/blob/main/rm-result-pass.png' alt='eow1' height='140' width='256'>](https://result-manager.netlify.app/result) 
+[<img src='https://github.com/justice-sh/justice-sh/blob/main/tegy-login.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
+[<img src='https://github.com/justice-sh/justice-sh/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/) -->
 
 ### Casuals
 
@@ -28,26 +28,26 @@ I'm Justice from Nigeria, a self-driven and motivated frontend developer with ov
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sherlock-HolmesJM)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_justice47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14008973)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/justice-sh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_justice47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14008973)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sherlock-HolmesJM)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=justice-sh)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherlock-holmesjm&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-sh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Sherlock-HolmesJM)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=justice-sh)  
 
-![Profile views](https://gpvc.arturio.dev/Sherlock-HolmesJM) 
+![Profile views](https://gpvc.arturio.dev/justice-sh) 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=justice)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sherlock-HolmesJM)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justice-sh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**Sherlock-HolmesJM/Sherlock-HolmesJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**justice-sh/justice-sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=sherlock-holmesjm&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=justice-sh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="My GitHub Stats" />
 -->
 
 
