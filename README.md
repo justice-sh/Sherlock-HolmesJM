@@ -7,9 +7,9 @@ I'm Justice from Nigeria, a self-driven and motivated frontend developer with ov
 
 ## Skills and Experience
 
-* ⚡ NextJs
-* ⚛️ React
-* 🧑🏾‍💻 TypeScript, JavaScript, HTML, CSS
+* ⚡ TypeScript, JavaScript
+* ⚛️ NextJs, React, HTML, CSS
+* 🧑🏾‍💻 NodeJs, MongoDB, Firebase, etc.
 
 <!-- ## Example of Work -->
 <!-- [<img src='https://github.com/justice-sh/justice-sh/blob/main/flo-pic-3.png' alt='eow1' height='140' width='256'>](https://floprotocol.io/) -->
@@ -28,7 +28,7 @@ I'm Justice from Nigeria, a self-driven and motivated frontend developer with ov
 - 😄 Pronouns: He/Him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/justice-sh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_justice47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14008973)  
+<!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/justice-sh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_justice47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14008973)  -->
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
