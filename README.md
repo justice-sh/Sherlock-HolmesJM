@@ -34,7 +34,7 @@ I'm Justice from Nigeria, a self-driven and motivated frontend developer with ov
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=justice-sh)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-sh&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justice-sh)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=justice-sh)  
 
