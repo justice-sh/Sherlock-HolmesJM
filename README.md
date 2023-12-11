@@ -26,7 +26,7 @@ Software engineer:
 
 ### Casuals
 
-- 🌱 I’m currently learning GSAP 
+<!-- 🌱 I’m currently learning GSAP -->
 - 💬 Ask me about JavaScript, Front-End Development 
 - 😄 Pronouns: He/Him 
 
