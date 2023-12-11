@@ -24,12 +24,6 @@ Software engineer:
 [<img src='https://github.com/justice-sh/justice-sh/blob/main/tegy-login.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/)
 [<img src='https://github.com/justice-sh/justice-sh/blob/main/tegy-db.png' alt='eow1' height='140' width='256'>](https://tegy.netlify.app/) -->
 
-### Casuals
-
-<!-- 🌱 I’m currently learning GSAP -->
-- 💬 Ask me about JavaScript, Front-End Development 
-- 😄 Pronouns: He/Him 
-
 
 <!--[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/justice-sh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/_justice47)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/14008973)  -->
 
