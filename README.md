@@ -3,9 +3,12 @@
 
 # Hi there 👋, I'm Justice
 
-I'm Justice from Nigeria, a self-driven and motivated frontend developer with over four (4) years of experience.
+Software engineer:
+- Frontend developer
+- Backend developer
 
-## Skills and Experience
+
+## Skills
 
 * ⚡ TypeScript, JavaScript
 * ⚛️ NextJs, React, HTML, CSS
