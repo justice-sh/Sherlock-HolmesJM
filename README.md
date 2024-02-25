@@ -3,9 +3,7 @@
 
 # Hi there 👋, I'm Justice
 
-Software engineer:
-- Frontend developer
-- Backend developer
+Fullstack Web Developer
 
 
 ## Skills
